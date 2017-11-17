@@ -1,8 +1,7 @@
 //
-//  ImplementationProtocol.m
+//  ExtensionProtocol.m
 //
-//  Created by Jianfei.zhang on 2016-7-31.
-//  Copyright (c) 2016年 dianping.com. All rights reserved.
+//  Created by jeffery on 2016-7-31.
 //
 
 #import <Foundation/Foundation.h>
